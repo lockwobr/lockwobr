@@ -39,7 +39,3 @@ Before NVIDIA I spent about 12 years on data and ML infrastructure at startups.
 **Now:** Go · Kubernetes · Helm · Sigstore / cosign · GitHub Actions · Terraform
 
 **Past lives:** Spark · Kafka · Storm · Hadoop · Airflow · Snowflake · Scala · pandas
-
-#### Find me
-
-💼 [LinkedIn](https://www.linkedin.com/in/lockwobr/)
